@@ -1,0 +1,5 @@
+280 Mithali Raj batter 3468.24 
+282 Sunil Chhetri soccer 3420.24 
+284 Kapil Dev all rounder 5678.0 
+288 PV Sindhu shuttler 34720.0 
+290 Abhinav Bindra shooter 24678.0 

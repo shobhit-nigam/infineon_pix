@@ -1,0 +1,4 @@
+reg-ex or regular expression
+is a special sequence of characters
+it can be REpeated too
+you may have install the re module
